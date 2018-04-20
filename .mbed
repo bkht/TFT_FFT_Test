@@ -1,0 +1,3 @@
+ROOT=.
+TARGET=detect
+TOOLCHAIN=GCC_ARM
